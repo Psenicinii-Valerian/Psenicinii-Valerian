@@ -1,6 +1,6 @@
-👋 Hi there! I'm Psenicinii Valerian, better known in the coding world as wallee.<br>
-🔍 My passions include crafting code and exploring the vast universe of FullStack Web Development.<br>
-🌱 I’m on a learning journey, constantly evolving in FullStack Web Development.<br>
-👨‍💼 Proudly contributing my skills to IT companies since 2023.<br>
-🤝 Eager to collaborate on innovative projects and make a significant impact.<br>
-📫 Reach out to me at [LinkedIn](https://www.linkedin.com/in/valerian-valentin-p%C8%99enicin%C3%AEi-904813276/).
+👋 Hi there! I'm Psenicinii Valerian, an enthusiastic IT student and Full-Stack Web Developer<br>
+🔍 My passions include crafting code and exploring the vast universe of FullStack Web Development<br>
+🌱 Constantly evolving my skills and knowledge in Full-Stack Web Development<br>
+👨‍💼 Proudly contributing to the IT industry since 2023, building impactful and innovative solutions<br>
+🤝 Eager to collaborate on innovative projects and make a significant impact<br>
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/valerian-valentin-p%C8%99enicin%C3%AEi-904813276/)
